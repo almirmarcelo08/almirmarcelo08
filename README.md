@@ -58,4 +58,13 @@ Fique à vontade para explorar meus repositórios e projetos!
 />
 <br>
 <br>
-![Almir's GitHub stats](https://github-readme-stats.vercel.app/api?username=almirmarcelo08&show_icons=true&theme=radical)
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=almirmarcelo08&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+</p>
