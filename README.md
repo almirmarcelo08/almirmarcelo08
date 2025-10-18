@@ -1,4 +1,4 @@
-## 👋 Olá! Sou o Almir Marcelo
+## 👋 Olá! Sou o Almir Marcelo!
 
 Sou um futuro desenvolvedor, de 26 anos de idade e natural do estado de Rondônia. Embora eu tenha uma formação inicial em **Biomedicina**, a área da tecnologia da informação me conquistou completamente. Atualmente, estou focado em adquirir e aprimorar minhas habilidades em desenvolvimento de software.
 
