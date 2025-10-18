@@ -56,3 +56,6 @@ Fique à vontade para explorar meus repositórios e projetos!
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
+<br>
+<br>
+![Almir's GitHub stats](https://github-readme-stats.vercel.app/api?username=almirmarcelo08&show_icons=true&theme=radical)
