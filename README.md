@@ -1,9 +1,11 @@
 ## 👋 Olá! Sou o Almir Marcelo!
 
-Sou um futuro desenvolvedor, de 27 anos de idade e natural do estado de Rondônia. Embora eu tenha uma formação inicial em **Biomedicina**, a área da tecnologia da informação me conquistou completamente. Atualmente, estou focado em adquirir e aprimorar minhas habilidades em desenvolvimento de software.
+Sou um Biomédico, de 27 anos de idade e natural do estado de Rondônia. Embora eu tenha uma formação inicial em **Biomedicina**, a área da tecnologia da informação me conquistou completamente, portanto, meu objetivo é me tornar especialista nas duas áreas e complementá-las para me tornar um profissional diversificado, visando atuar em diferentes setores da saúde pública e privada. Atualmente, estou focado em adquirir e aprimorar minhas habilidades em desenvolvimento de software e análise de dados.
 
 **🎓 Formação Atual:**
-* Cursando: **Tecnólogo em Análise e Desenvolvimento de Sistemas**
+* Cursando: **Farmácia**
+* Graduado em: **Biomedicina**
+* Pós-Graduado em: **Engenharia de Software**
 
 Fique à vontade para explorar meus repositórios e projetos!
 ### 🤖 Linguagens e Tecnologias
@@ -26,14 +28,6 @@ Fique à vontade para explorar meus repositórios e projetos!
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
@@ -42,11 +36,19 @@ Fique à vontade para explorar meus repositórios e projetos!
 />
 <img 
     align="left" 
-    alt="Java" 
-    title="Java"
+    alt="Python" 
+    title="Python"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" 
 />
 <img 
     align="left" 
@@ -56,15 +58,3 @@ Fique à vontade para explorar meus repositórios e projetos!
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<br>
-<br>
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=almirmarcelo08&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-</p>
