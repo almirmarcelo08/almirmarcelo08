@@ -1,6 +1,6 @@
 ## 👋 Olá! Sou o Almir Marcelo!
 
-Sou um Biomédico, de 27 anos de idade e natural do estado de Rondônia. Embora eu tenha uma formação inicial em **Biomedicina**, a área da tecnologia da informação me conquistou completamente, portanto, meu objetivo é me tornar especialista nas duas áreas e complementá-las para me tornar um profissional diversificado, visando atuar em diferentes setores da saúde pública e privada. Atualmente, estou focado em adquirir e aprimorar minhas habilidades em desenvolvimento de software e análise de dados.
+Sou um profissional que une o rigor clínico da **Biomedicina** com a capacidade analítica da **Ciência de Dados**. Meu foco é transformar dados complexos em soluções estratégicas para o setor de saúde e tecnologia.
 
 **🎓 Formação Atual:**
 * Cursando: **Ciência de Dados**
@@ -8,6 +8,9 @@ Sou um Biomédico, de 27 anos de idade e natural do estado de Rondônia. Embora 
 * Pós-Graduado em: **Engenharia de Software**
 
 Fique à vontade para explorar meus repositórios e projetos!
+
+### 📫 Vamos nos conectar?
+- **LinkedIn:** [https://www.linkedin.com/in/almirmarcelo08]
 ### 🤖 Linguagens e Tecnologias
 
 <p align="left">
