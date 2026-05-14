@@ -10,7 +10,7 @@ Sou um profissional que une o rigor clínico da **Biomedicina** com a capacidade
 Fique à vontade para explorar meus repositórios e projetos!
 
 ### 📫 Vamos nos conectar?
-- **LinkedIn:** [https://www.linkedin.com/in/almirmarcelo08]
+* **LinkedIn:** [Almir Marcelo](https://www.linkedin.com/in/almirmarcelo08)
 ### 🤖 Linguagens e Tecnologias
 
 <p align="left">
